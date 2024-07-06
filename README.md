@@ -269,7 +269,7 @@ volumes:
   head-data:
 ````
 
-> sunuc içersinde ctrl w ile aratarak `head-id` ve `24 KELIME BURAYA` kısımlarını değiştirelim.
+> sunuc içersinde ctrl w ile aratarak `head-id` ve `24 KELIME BURAYA` kısımlarını değiştirelim.(24 kelimeyi girerken tırnakları kaldırmayalım)
 
 > head-id cat komutumuz ile almıştık, 24 kelimeyi cüzdanı oluştururken aldık.
 
